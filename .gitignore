@@ -1,0 +1,14 @@
+# Ignorar arquivo de log
+pipeline.log
+
+# Ignorar pasta da maquina virtual
+venv/
+
+# Ignorar cache do python
+__pycache__/
+*.pyc
+
+# ignorar .env
+*.env
+
+rascunho.ipynb
