@@ -12,3 +12,5 @@ __pycache__/
 *.env
 
 rascunho.ipynb
+
+postgres_data/
